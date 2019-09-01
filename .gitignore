@@ -1,0 +1,5 @@
+# Estet‰‰n tavukoodin lis‰‰minen tietovarastoon.
+*.class
+
+# VS Code folder
+.vscode/
